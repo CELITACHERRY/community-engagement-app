@@ -1,6 +1,6 @@
 ---
-name: Comms/Content
-about: Comms/Content
+name: Comms
+about: Comms
 title: ''
 labels: ''
 assignees: ''

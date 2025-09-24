@@ -1,6 +1,6 @@
 ---
-name: Build Task
-about: Build Task
+name: Build
+about: Build
 title: Build
 labels: ''
 assignees: ''

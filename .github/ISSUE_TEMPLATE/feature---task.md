@@ -1,6 +1,6 @@
 ---
-name: Feature / PRD Task
-about: Feature / PRD Task
+name: Feature / Task
+about: Feature / Task
 title: ''
 labels: ''
 assignees: ''
