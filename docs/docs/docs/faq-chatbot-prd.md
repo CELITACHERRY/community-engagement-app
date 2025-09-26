@@ -23,32 +23,22 @@ We are building an **FAQ Chatbot MVP** inside Glide to help nonprofits , specifi
 ---
 
 ## 3. Target Users & Use Cases
-**Primary users:**  
-- Parents: “When is back-to-school night?”  
-- Volunteers: “How do I sign up to help?”  
-- Staff: “How do we update the FAQs easily?”  
-
-**Use case flow (Glide):**  
-1. User opens the app → taps “Ask a Question.”  
-2. User enters text → Glide searches FAQ database (Google Sheet).  
-3. If match → chatbot returns the answer.  
-4. If no match → response = “We’ll get back to you” + logs unanswered question.  
+**Primary users (M.A.S.K. pilot):**
+- Parent: “When is the next M.A.S.K. board meeting?”  
+- Parent: “Who is the school principal and how do I contact them?”  
+- Parent: “Where is the school located and what’s the phone number?”  
+- Parent: “What events are coming up?”  
 
 ---
 
-## 4. Core Requirements
-**Functional**  
-- FAQ database stored in Google Sheets (Q&A pairs).  
-- Glide app interface with “Ask a Question” form.  
-- Automated lookup → return matching answer.  
-- Unanswered queries logged to a sheet.  
+## 4. Core Requirements (Categories)
+**Functional**
+- FAQ database seeded with categories:
+  - **Board Meetings** → Dates, times, agendas.  
+  - **School Info** → Admin names, emails, phone, fax, address.  
+  - **Events** → Parent nights, workshops, community briefings.  
+  - **Programs** → M.A.S.K. advocacy initiatives.  
 
-**Non-Functional**  
-- Must be mobile-friendly.  
-- Responses under 3 seconds.  
-- Easy for staff to update the FAQ list.  
-
----
 
 ## 5. Data & AI Considerations
 - **Data Source:** CSV/Google Sheet maintained by nonprofit staff.  
@@ -84,5 +74,7 @@ We are building an **FAQ Chatbot MVP** inside Glide to help nonprofits , specifi
 - `/docs/faq-chatbot-prd.md` (this doc).  
 - Glide app prototype link.  
 - Demo video or screenshots.  
-- Case study documenting impact.  
+- Case study documenting impact.
+
+
 
