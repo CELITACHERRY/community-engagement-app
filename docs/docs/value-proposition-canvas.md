@@ -10,27 +10,25 @@
 ---
 
 ## 😟 Customer Pains
-- Parents miss important updates because info is scattered across emails, flyers, and texts.  
-- Staff and volunteers burn out answering the same questions repeatedly.  
-- Communities feel disconnected and uninformed.  
-- Nonprofits struggle to measure engagement or prove impact with data.  
+- Parents don’t know board meeting dates or times.  
+- Families aren’t sure who to contact at schools (admin names, emails, phone, fax).  
+- Events are missed because flyers or emails don’t reach everyone.  
+- Staff waste time repeating the same information.  
 
 ---
 
 ## 🌟 Customer Gains
-- Parents receive updates on time, in plain language.  
-- Volunteers feel more included and can easily sign up.  
-- Staff spend less time on repetitive communication.  
-- Communities feel heard, informed, and more connected.  
-- Nonprofits gain insights into participation and engagement.  
+- One hub for all **school info, board meetings, and events**.  
+- Parents feel informed without chasing flyers.  
+- Staff save time with fewer repeated questions.  
+- Families feel more connected to M.A.S.K. initiatives.  
 
 ---
 
 ## 💡 Our Solution
-- **FAQ Chatbot (MVP)** → answers common questions instantly from a simple database.  
-- **Meeting Auto-Summarizer (Phase 2)** → turns long notes into short, clear recaps.  
-- **Engagement Dashboard (Phase 3)** → tracks attendance, volunteer activity, and participation.  
-- **Future Features** → multi-tenant support, donor engagement tools, SMS/voice notifications.  
+- **FAQ Chatbot (MVP – M.A.S.K. pilot)** → answers questions about board meetings, school contacts, and events.  
+- **Meeting Auto-Summarizer (Phase 2)** → provides quick recaps of advocacy meetings.  
+- **Engagement Dashboard (Phase 3)** → tracks parent participation and event attendance.
 
 ---
 
