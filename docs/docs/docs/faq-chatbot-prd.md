@@ -4,7 +4,7 @@
 ---
 
 ## 1. Product Overview
-We are building an **FAQ Chatbot MVP** inside Glide to help nonprofits answer community questions instantly.  
+We are building an **FAQ Chatbot MVP** inside Glide to help nonprofits , specifically MASK, education advocacy organization. Answer community questions instantly.  
 - **Why**: Parents miss updates, staff get overwhelmed repeating the same info, communities feel disconnected.  
 - **Goal**: Deliver a simple, no-code chatbot that pulls answers from a structured FAQ list and provides a friendly, mobile-first interface.  
 
